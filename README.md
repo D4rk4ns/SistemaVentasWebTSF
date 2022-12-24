@@ -20,3 +20,7 @@ La aplicación fue diseña para trabajar en un entorno web, integrado con el asi
 #### Backend
 - Lenguaje Java Web
 - Base de Datos Mysql
+
+
+#### Recordatorio
+- No olvides actualizar la configuración de DBConexion, para adaptarla de acuerdo a la ubicación y credenciales de tu Base de Datos.
